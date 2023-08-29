@@ -1,0 +1,6 @@
+[submodule "quests"]
+	path = quests
+	url = https://github.com/EQMacEmu/quests
+[submodule "Maps"]
+	path = Maps
+	url = https://github.com/EQMacEmu/Maps
